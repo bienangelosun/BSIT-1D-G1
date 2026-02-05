@@ -21,6 +21,6 @@ System.out.println("Element 4: " + a[3]);
 
 for (c = 0; c < a.length; ++c) {
 System.out.println("Element " + c + " " + a[c]);
-    }
+    	}
 	}
 }
